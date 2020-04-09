@@ -18,3 +18,5 @@ e-mail всем пользователям
 не хранится в открытом виде
 
 Данные аутентификации хранятся в файле LibraryUsers.txt. Логин админа: Admin ; пароль admin
+
+Вход в программу - метод main в классе HomeLibraryPackage.HomeLibrary
